@@ -9,11 +9,11 @@ It provides RESTful endpoints for managing tasks, including creation, update, de
 - CORS-enabled for frontend integration
 
 # Get Started
-1. Clone the repository
+1. Clone the repository :
   git clone https://github.com/your-username/task-tracker-api.git](https://github.com/kiransawant02/Task-Tracker-API.git
   cd task-tracker-api
-2. Update Database Connection
+2. Update Database Connection :
   In appsettings.json, update the connection string.
-4. Update CORS policy
+4. Update CORS policy :
   In Program.cs file, CORS configuration : Update the URL with frontend URL
 5. Run the API
