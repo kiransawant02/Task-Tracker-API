@@ -10,7 +10,7 @@ It provides RESTful endpoints for managing tasks, including creation, update, de
 
 # Get Started
 1. Clone the repository :
-  git clone https://github.com/your-username/task-tracker-api.git](https://github.com/kiransawant02/Task-Tracker-API.git
+  git clone https://github.com/kiransawant02/Task-Tracker-API.git
   cd task-tracker-api
 2. Update Database Connection :
   In appsettings.json, update the connection string.
