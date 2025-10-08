@@ -1,5 +1,5 @@
 # Task Tracker API
-This is the backend API for the Task Tracker Web App, built using ASP.NET Core Web API. 
+This is the backend API for the Task Tracker Web App, built using ASP.NET Core Web API and MS-SQL as the database. 
 It provides RESTful endpoints for managing tasks, including creation, update, deletion, status change, and filtering.
 
 # Features
